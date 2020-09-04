@@ -1,1 +1,1 @@
-An opinionated starter for using Gatsby v2 with React Context, tag-agnostic styled-components, page transitions and scroll events with IntersectionObserver.
+Senior Solutions Architect at AWS. Youtuber focusing on Japan Travel and Disney Parks around the World. Ex W3C AB Member,  IETF Working Group Chair and technical expert at GSMA.

@@ -2,18 +2,27 @@
   "title": "Home",
   "content": "intro.md",
   "gallery": [{
-    "title": "React Context",
-    "copy": "For global styles.",
-    "image": "../images/gallery/react-context.jpg"
+    "title": "AWS",
+    "copy": "Currently a Senior Solutions Architect at AWS. Follow AWS on twitch for up to date product annoucements",
+    "image": "../images/gallery/aws.jpg",
+    "linkurl": "https://www.twitch.tv/aws"
   },
   {
-    "title": "Page Transitions",
-    "copy": "Component-based for easy usage.",
-    "image": "../images/gallery/page-transitions.jpg"
+    "title": "Japan Travel on YouTube",
+    "copy": "See my latest travels in Japan on Youtube.",
+    "image": "../images/gallery/ginkakuji.jpg",
+    "linkurl": "https://youtube.com/thisNatasha"
   },
   {
-    "title": "Intersection Observer",
-    "copy": "Including a polyfill for Safari.",
-    "image": "../images/gallery/intersection-observer.jpg"
+    "title": "Disney Parks on YouTube",
+    "copy": "Tips, reviews and vlogs from Disney Parks around the world.",
+    "image": "../images/gallery/tokyodisneyland.jpg",
+    "linkurl": "https://youtube.com/thisNatasha"
+  },
+  {
+    "title": "A Career in Internet and Web",
+    "copy": "View my up-to-date work experience across technologies and industries on LinkedIn.",
+    "image": "../images/gallery/perfnow.jpg",
+    "linkurl": "https://www.linkedin.com/in/natasha-rooney-560a7b9/"
   }]
 }
