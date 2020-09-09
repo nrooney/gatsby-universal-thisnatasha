@@ -1,1 +1,1 @@
-Senior Solutions Architect at AWS. Youtuber focusing on Japan Travel and Disney Parks around the World. Ex W3C AB Member,  IETF Working Group Chair and technical expert at GSMA.
+Web and Internet expert. Youtuber focusing on Japan Travel and Disney Parks around the World. Ex W3C AB Member,  ex IETF Working Group Chair and technical expert at GSMA.

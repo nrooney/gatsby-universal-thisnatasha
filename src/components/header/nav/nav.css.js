@@ -1,6 +1,8 @@
 import styled from 'styled-components';
 
 export const Container = styled.nav`
+  padding-bottom: 40px;
+
   ul {
     display: flex;
     list-style: none;

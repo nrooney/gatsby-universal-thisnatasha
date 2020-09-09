@@ -1,18 +1,22 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import Img from 'gatsby-image';
-import { Title, Copy } from './item.css';
-import { Link } from 'gatsby';
+import { Title, Copy, ItemURL } from './item.css';
 
 const Item = ({ title, copy, image, linkurl }) => (
   <figure>
-    <Link to={linkurl} alt={title}>
+    <a href={linkurl} alt={title} target="_blank" rel="noopener noreferrer">
       <Img fluid={image ? image.childImageSharp.fluid : {}} alt={title} />
-    </Link>
+    </a>
     <figcaption>
-      <Link to={linkurl} alt={title}>
+      <ItemURL
+        href={linkurl}
+        alt={title}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         <Title>{title}</Title>
-      </Link>
+      </ItemURL>
       <Copy>{copy}</Copy>
     </figcaption>
   </figure>

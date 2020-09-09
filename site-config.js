@@ -1,10 +1,11 @@
 const path = require('path');
 
 module.exports = {
-  siteTitle: `Natasha Rooney`,
+  siteTitle: `Natasha Rooney | thisNatasha`,
   siteTitleShort: `thisNatasha`,
-  siteDescription: `Work and Social Links`,
-  siteUrl: `https://natasharooney.com`,
+  siteDescription: `Information and social links for Natasha Rooney (thisNatasha).`,
+  siteAuthor: `Natasha Rooney`,
+  siteUrl: `https://thisnatasha.com`,
   themeColor: `#000`,
   backgroundColor: `#fff`,
   pathPrefix: null,

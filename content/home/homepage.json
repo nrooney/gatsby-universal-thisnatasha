@@ -2,10 +2,10 @@
   "title": "Home",
   "content": "intro.md",
   "gallery": [{
-    "title": "AWS",
-    "copy": "Currently a Senior Solutions Architect at AWS. Follow AWS on twitch for up to date product annoucements",
-    "image": "../images/gallery/aws.jpg",
-    "linkurl": "https://www.twitch.tv/aws"
+    "title": "A Career in Internet and Web",
+    "copy": "View my up-to-date work experience across technologies and industries on LinkedIn.",
+    "image": "../images/gallery/perfnow.jpg",
+    "linkurl": "https://www.linkedin.com/in/natasha-rooney-560a7b9/"
   },
   {
     "title": "Japan Travel on YouTube",
@@ -18,11 +18,5 @@
     "copy": "Tips, reviews and vlogs from Disney Parks around the world.",
     "image": "../images/gallery/tokyodisneyland.jpg",
     "linkurl": "https://youtube.com/thisNatasha"
-  },
-  {
-    "title": "A Career in Internet and Web",
-    "copy": "View my up-to-date work experience across technologies and industries on LinkedIn.",
-    "image": "../images/gallery/perfnow.jpg",
-    "linkurl": "https://www.linkedin.com/in/natasha-rooney-560a7b9/"
   }]
 }

@@ -4,14 +4,17 @@ import { StaticQuery, graphql } from 'gatsby';
 import Head from 'components/head';
 import Header from 'components/header';
 import GlobalStyle from 'global.css.js';
+import { FlexLayout } from './layout.css.js';
+import Social from 'components/social';
 
 const Layout = ({ data, children }) => (
-  <div>
+  <FlexLayout>
     <GlobalStyle />
     <Head />
     <Header title={data.site.siteMetadata.siteTitle} />
     {children}
-  </div>
+    <Social />
+  </FlexLayout>
 );
 
 Layout.propTypes = {
