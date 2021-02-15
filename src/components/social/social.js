@@ -6,6 +6,9 @@ import { SocialIconContainer } from './socialiconcontainer.css';
 const Social = () => (
   <Container>
     <SocialIconContainer>
+      <SocialIcon url="https://twitch.tv/thisnatasha" />
+    </SocialIconContainer>
+    <SocialIconContainer>
       <SocialIcon url="https://twitter.com/thisnatasha" />
     </SocialIconContainer>
     <SocialIconContainer>

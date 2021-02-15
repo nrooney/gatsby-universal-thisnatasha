@@ -2,10 +2,16 @@
   "title": "Home",
   "content": "intro.md",
   "gallery": [{
-    "title": "A Career in Internet and Web",
-    "copy": "View my up-to-date work experience across technologies and industries on LinkedIn.",
-    "image": "../images/gallery/perfnow.jpg",
-    "linkurl": "https://www.linkedin.com/in/natasha-rooney-560a7b9/"
+    "title": "Solutions Architecture at AWS",
+    "copy": "I work with Video Games companies in designing systems using AWS services.",
+    "image": "../images/gallery/aws.jpg",
+    "linkurl": "https://aws.amazon.com/gametech/"
+  },
+  {
+    "title": "Gaming on Twitch",
+    "copy": "Join me on twitch to play some games, hang out with friends and ask some qs.",
+    "image": "../images/gallery/twitch.png",
+    "linkurl": "https://twitch.tv/thisnatasha"
   },
   {
     "title": "Japan Travel on YouTube",
@@ -18,5 +24,11 @@
     "copy": "Tips, reviews and vlogs from Disney Parks around the world.",
     "image": "../images/gallery/tokyodisneyland.jpg",
     "linkurl": "https://youtube.com/thisNatasha"
+  },
+  {
+    "title": "A Career in Internet and Web",
+  "copy": "View my up-to-date work experience across technologies and industries on LinkedIn.",
+  "image": "../images/gallery/perfnow.jpg",
+  "linkurl": "https://www.linkedin.com/in/natasha-rooney-560a7b9/"
   }]
 }

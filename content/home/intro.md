@@ -1,1 +1,1 @@
-Web and Internet expert. Youtuber focusing on Japan Travel and Disney Parks around the World. Ex W3C AB Member,  ex IETF Working Group Chair and technical expert at GSMA.
+Solutions Architect in Video Games at AWS. Streaming games on Twitch. Japan travel and Disney Parks vlogger on Youtube. Ex GSMA, ex W3C AB Member and IETF Chair, Gamer, Japan & Disney Parks fan. 日本語を少ししか話せません。
